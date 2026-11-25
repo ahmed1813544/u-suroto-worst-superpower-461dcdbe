@@ -11,7 +11,7 @@ Stdlib only; deterministic: every run writes the exact same bytes.
 import os
 
 LINE = "I can talk to goldfish, but they only ever want to talk about being goldfish."
-# 76 characters, one line: the power sounds useful until the catch lands
+# 77 characters, one line: the power sounds useful until the catch lands
 # in the last few words - the only minds you can read have nothing to say.
 
 
